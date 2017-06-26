@@ -22,10 +22,10 @@
     <!--Used in Action Bar, and in AndroidManifest to tell the device the name of this app.-->
     <!--It's good to keep this short, so your launcher icon isn't displayed with "The greatest Wea"-->
     <!--or something similar.-->
-    <string name="app_name">Sunshine</string>
+    <string name="app_name">Sunshine S02.02</string>
 
-    <!--TODO (1) Add a string for the title of the refresh button, "Refresh"-->
-
+    <!--COMPLETED (1) Add a string for the title of the refresh button, "Refresh"-->
+    <string name="refresh_button">Refresh</string>
 
     <!-- - - - - - - - - - - - - -->
     <!--Used by SunshineDateUtils-->
